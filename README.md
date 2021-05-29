@@ -1,1 +1,1 @@
-# Automatic-License-Number-Plate-Recognition
+# Automatic License / Number Plate Recognition

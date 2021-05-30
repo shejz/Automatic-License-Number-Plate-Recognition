@@ -27,7 +27,7 @@ ANPR tends to be an extremely challenging subfield of computer vision, due to th
 
 ## Results
 
-![]()
+![](https://github.com/shejz/Automatic-License-Number-Plate-Recognition/blob/main/Results.jpg)
 
 
 

@@ -7,12 +7,12 @@ NOTEBOOK DEMO:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos
 2. Extract the characters from the license plate
 3. Apply some form of Optical Character Recognition (OCR) to recognize the extracted characters
 
+ANPR tends to be an extremely challenging subfield of computer vision, due to the vast diversity and assortment of license plate types across states and countries.
+
 - ANPR performed in controlled lighting conditions with predictable license plate types can use basic image processing techniques.
 - More advanced ANPR systems utilize dedicated object detectors, such as **HOG + Linear SVM**, **Faster R-CNN**, **SSDs**, and **YOLO**, to localize license plates in images.
 - State-of-the-art ANPR software utilizes **Recurrent Neural Networks (RNNs)** and **Long Short-Term Memory networks (LSTMs)** to aid in better OCR’ing of the text from the license plates themselves. And even more advanced ANPR systems use specialized neural network architectures to pre-process and clean images before they are OCR’d, thereby improving ANPR accuracy.
 
-
-ANPR tends to be an extremely challenging subfield of computer vision, due to the vast diversity and assortment of license plate types across states and countries.
 
 **License plate recognition systems are further complicated by**:
 

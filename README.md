@@ -25,5 +25,9 @@ ANPR tends to be an extremely challenging subfield of computer vision, due to th
 - These datasets containing sensitive, personal information, including time and location of a vehicle and its driver
 - ANPR companies and government entities closely guarding these datasets as proprietary information
 
+## Results
+
+![]()
+
 
 

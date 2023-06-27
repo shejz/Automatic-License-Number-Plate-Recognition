@@ -1,6 +1,6 @@
 # Automatic License / Number Plate Recognition
 
-NOTEBOOK DEMO:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Automatic-License-Number-Plate-Recognition/blob/main/opencv_anpr.ipynb)
+NOTEBOOK DEMO:  [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Automatic-License-Number-Plate-Recognition/blob/main/opencv_anpr.ipynb)
 
 **Automatic License/Number Plate Recognition (ANPR/ALPR) is a process involving the following steps**:
 1. Detect and localize a license plate in an input image/frame
